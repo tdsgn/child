@@ -4,6 +4,9 @@ body {
 	background: #ffffff url(../images/bg-sky.png) repeat;
 	font-family: Arial, Helvetica, sans-serif;
 }
+.test {
+	123;
+}
 @font-face {
   font-family: 'Kankin';
   src: url('../fonts/Kankin.ttf');
